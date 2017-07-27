@@ -1,0 +1,13 @@
+body
+{
+	background-color: blue;
+}
+h1, h2
+{
+	color: red;
+}
+p, ul
+{
+	font-size: 1.7em;
+	color: white;
+}
